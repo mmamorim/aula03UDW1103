@@ -1,0 +1,19 @@
+{
+  "name": "aula03udw1103",
+  "version": "1.0.0",
+  "description": "Exemplo aula dia 10/03 Manhã",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/aula03UDW1103.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/aula03UDW1103/issues"
+  },
+  "homepage": "https://github.com/mmamorim/aula03UDW1103#readme"
+}
